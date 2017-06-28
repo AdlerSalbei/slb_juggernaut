@@ -13,4 +13,6 @@ class CfgPatches {
 	};
 };
 
-#include "functions\cfgFunctions.hpp
+#include functions\cfgFunctions.hpp
+#include cfgVehicles.hpp
+#include cfgWeapons.hpp
